@@ -1,0 +1,10 @@
+.DS_Store
+*.tmp
+*.log
+outputs/
+scratch/
+_scratch/
+node_modules/
+.env
+.env.*
+!.env.example

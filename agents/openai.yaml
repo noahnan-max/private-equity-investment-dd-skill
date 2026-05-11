@@ -1,0 +1,4 @@
+interface:
+  display_name: "PE Investment DD"
+  short_description: "HTML-ready PE/VC investment DD reports"
+  default_prompt: "Use $private-equity-investment-dd to turn project materials into a professional HTML investment due diligence report with evidence gaps and red flags."
