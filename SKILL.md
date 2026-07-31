@@ -1,11 +1,20 @@
 ---
 name: private-equity-investment-dd
-description: Use when Noah asks for private equity, growth equity, VC/PE, buyout, M&A, strategic investment, Pre-IPO, or non-listed-company investment due diligence; when the input includes BP/CIM, interview notes, meeting minutes, data-room files, financial statements, customer/supplier data, legal materials, or base company materials; or when asked to generate an investment due diligence report, IC memo, red-flag scan, data request list, management interview guide, QoE/financial diligence draft, business/industry/legal diligence synthesis, valuation/return case, or post-investment value creation recommendations.
+description: "把 BP/CIM、访谈纪要、数据室和财务法律材料转成证据驱动的私募股权尽调与 IC 决策包。Use for PE/VC, growth equity, buyout, M&A, strategic investment, Pre-IPO, or non-listed-company diligence, including evidence matrices, red flags, QoE, valuation/return cases, terms, management interviews, data requests, IC memos, and post-investment value creation."
 ---
 
 # Private Equity Investment DD
 
 Use this skill to turn messy investment materials into a professional internal due diligence report or IC memo. The skill is derived from Noah's local DD book pack and is for internal investment research, not public investment advice.
+
+## 中文介绍
+
+这个 Skill 把零散的 BP、CIM、访谈、财务表、合同和数据室文件，组织成一套能支持投委会判断的尽调证据系统，而不是简单复述管理层故事。
+
+- **适合谁**：PE/VC、并购、战略投资、Pre-IPO 和成长股权团队，以及需要准备 IC 材料的项目负责人。
+- **解决什么**：把商业、行业、财务、法律税务、团队、估值、回报、退出和交易条款放进同一套决策逻辑。
+- **标准产出**：基础事实包、投资假设、证据矩阵、红旗台账、数据请求清单、管理层访谈提纲、估值回报桥和专业 HTML 尽调报告。
+- **核心价值**：每个重要主张都要对应来源、核验状态、证据缺口和交易影响；信息不足时输出缺口驱动报告，不把未知包装成确定性。
 
 For full DD reports, default to a standalone HTML report unless Noah asks for another format. The HTML should be report-ready, evidence-aware, and suitable for internal IC circulation.
 
